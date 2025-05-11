@@ -1,1 +1,1 @@
-# SchoolVaccination
+# Vaccination
